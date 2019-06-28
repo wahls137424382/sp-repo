@@ -18,4 +18,5 @@ management:
   endpoints:
     web:
       exposure:
-        include: null
+        include: refresh
+        
